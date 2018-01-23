@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Alyssa's Coding Adventures
 header-img: img/home-bg.png
 email: alyssa.kim@gmail.com
 copyright_name: alyssa0528
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Journalist's Journey to Software Development
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  alyssa0528

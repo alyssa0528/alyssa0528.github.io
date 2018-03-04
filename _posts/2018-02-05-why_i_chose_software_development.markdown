@@ -8,7 +8,7 @@ permalink:  why_i_chose_software_development
 
 In high school, I took a computer science class, not because I was genuinely interested in the subject, but because it fit into my schedule and a few of my friends were taking it.
 
-See, at that point in my life, I *knew* I was going to be a journalist. Nothing else intrigued me. I knew I was going to study it in college and that I would interview people, write stories, and produce videos for a living.
+See, at that point in my life, I *knew* I was going to work in news. Nothing else intrigued me. I knew I was going to study it in college and that I would interview people and write and produce stories for a living.
 
 All of that happened according to plan. I had the privilege to work at some major news outlets in New York City and Washington, D.C. What I didn’t expect to happen, though, was to fall out of love with it. Ultimately, I felt the industry itself was changing so quickly and drastically before my eyes, and I didn’t think it was all for the better. As I thought about a potential career change, I looked to my strengths and interests to see what could be transferrable to another industry. 
 
@@ -20,7 +20,7 @@ These traits combined made me think software development would be a great field 
 
 This career change has been a long time coming. The fears of failure and of throwing away a career that took more than a decade to build held me back for about the past three years. I’m not really one for New Year’s resolutions, but at the start of 2018, I knew it was time to take that step towards change. I enrolled in Flatiron’s Accelerated Bootcamp Prep course a couple of days after January 1, and here I am now, a student in the full Online Web Development Program.
 
-Needless to say, I’m really excited for all that’s to come, but I’m also still nervous. Two weeks into the bootcamp, I have definitely encountered lessons that left my head spinning. I find myself wondering, “Are other students struggling with some of these concepts, or is it just me?” After working professionally in one industry for more than a decade, it’s weird to be starting over in a field that in many ways feels extremely foreign. But everyday, I find myself eager to start new lessons and learn different concepts. Programming certainly works a different part of my brain, but it’s a welcome challenge that I find draws many parallels to media. I still get to write and produce—the two things I loved about being a journalist—but now with code.
+Needless to say, I’m really excited for all that’s to come, but I’m also still nervous. Two weeks into the bootcamp, I have definitely encountered lessons that left my head spinning. I find myself wondering, “Are other students struggling with some of these concepts, or is it just me?” After working professionally in one industry for more than a decade, it’s weird to be starting over in a field that in many ways feels extremely foreign. But everyday, I find myself eager to start new lessons and learn different concepts. Programming certainly works a different part of my brain, but it’s a welcome challenge that I find draws many parallels to media. I still get to write and produce—two things I love doing—but now with code.
 
 
 

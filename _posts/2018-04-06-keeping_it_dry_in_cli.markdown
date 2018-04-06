@@ -1,20 +1,20 @@
 ---
 layout: post
 title:      "Keeping It Dry in CLI"
-date:       2018-04-06 07:19:20 +0000
+date:       2018-04-06 03:19:20 -0400
 permalink:  keeping_it_dry_in_cli
 ---
 
 
-I'll admit that I was pretty terrified at the prospect of creating my own CLI. Like Avi mentioned in one of his videos, there's nothing more daunting than the sight of a blank file with the cursor blinking at you. I felt exhausted from the Music Playlist, TTT w/AI, and Student Scraper labs. (I can't wait to get back into lesson mode!)
+I'll admit that I was pretty terrified at the prospect of creating my own CLI. Like Avi mentioned in one of his videos, there's nothing more daunting than the sight of a blank file with the cursor blinking at you. I felt mentally exhausted from the Music Playlist, TTT w/AI, and Student Scraper labs. (I can't wait to get back into lesson mode!)
 
-I also have to admit that just getting started on my data gem was a bit tricky. Since I've been using the Learn IDE, I felt like I wasn’t too familiar with GitHub and its various commands (clearly the teachings from the Github lesson earlier in the curriculum didn’t stick with me). One of the teaching assistants was kind enough to help me out, though, and after a few minutes I was ready to get started.
+I also have to admit that just getting started on my data gem was a bit tricky. Since I've been using the Learn IDE, I felt like I wasn’t too familiar with GitHub and its various commands (clearly the teachings from the Github lesson much earlier in the curriculum didn’t stick with me). One of the teaching assistants was kind enough to help me out, though, and after a few minutes I was ready to get started.
 
-I decided to use the Rock ‘n’ Roll race series site to scrape. Running is one of my hobbies, and I wanted my gem to provide the user with information to the 30 races offered throughout the year. Its main race events page (http://www.runrocknroll.com/es/#findrace) lists all the races in neatly separated divs, but I noticed that the individual race sites varied slightly in terms of format. It limited me slightly in what I could and couldn’t scrape, but it looked like the race dates, descriptions, and hashtags were uniform across all sites, so I focused on scraping those. I also wanted to include the distances offered for each city. For that information, I had to go one page deeper on each of the city's individual sites. 
+I decided to use the Rock ‘n’ Roll race series site to scrape. Running is one of my hobbies, and I wanted my gem to provide the user with information to the 30+ races offered throughout the year. Its main race events page (http://www.runrocknroll.com/es/#findrace) lists all the races in neatly separated divs, but I noticed that the individual race sites varied slightly in terms of format. It limited me slightly in what I could and couldn’t scrape, but it looked like the race dates, descriptions, and hashtags were uniform across all sites, so I focused on scraping those. I also wanted to include the distances offered for each city. For that information, I had to go one page deeper on each of the city's individual sites. 
 
 Before actually coding anything, I watched Avi’s Daily Deal gem video several times. The first time, I watched it all the way through to get an overview, and then I re-watched it, pausing along the way to “code along” with him (while in awe that he was coding everything so quickly). I found his way of thinking and planning extremely helpful. I know that I myself have a tendency to want to jump right in and start coding, but it really makes so much more sense to think about how you want your interface to look and how you want your data gem to function. Starting to code with fake data helped me figure out what type of methods and objects I needed to code.
 
-By biggest challenge was trying to keep my code DRY. When I first got my CLI working and all my attributes scraping properly, it took 42 seconds for the program to load. The way I had written my code forced my program to scrape for ALL attributes for ALL 30 cities from the get-go (below). That's a lot of pages to scrape through and info to gather (and no one's going to wait 42 seconds for a program to start)! 
+By biggest challenge was trying to keep my code DRY. When I first got my CLI working and all my attributes scraping properly, it took 42 seconds for the program to load. The way I had written my code forced my program to scrape for ALL attributes for ALL 30 cities from the get-go (below). That's a lot of pages to scrape through and a lot of info to gather (and these days, no one's going to wait 42 seconds for a program to start)! 
 
 
 ```
@@ -41,16 +41,15 @@ By biggest challenge was trying to keep my code DRY. When I first got my CLI wor
 All of my "scrape" methods were very repetitive, too, and essentially followed this format:
 
 ```
-  def scrape_race_date #method that parses indiv race site
+  def scrape_race_date
     @race_site = Nokogiri::HTML(open(@race.url))
-    binding.pry
     @race_site.search("#hero").each do |header|
       @race.date = header.css("span strong").text.strip
     end
   end
 ```
 
-I looked at the code for the Top 50 Best Restaurants in the World gem for inspiration, since that gem scraped two different types of pages and the CLI operated smoothly with barely any lag time. I did away with the various scrape attribute methods. I greatly simplified my #scrape_races method to do just that: scrape races and nothing else:
+I watched Avi's other videos a few times (the Common Anti-Patterns one was very helpful) and I also studied the code for the Top 50 Best Restaurants in the World gem for inspiration, since that gem scraped two different types of pages (the page with the 1–50 list, plus each restaurant's individual page) and the CLI operated smoothly with barely any lag time. I did away with my various scrape attribute methods. I greatly simplified my #scrape_races method so that it did just that: scrape races and nothing else.
 
 ```
   def scrape_races
@@ -108,9 +107,9 @@ The second tricky bit was having the list of distances print properly. Every cit
   end
 ```
 
-I also discovered that Madrid's site was laid out a little differently in that it didn't really have a race description. I therefore had to write a condition that would direct the user to click on Madrid's URL to get more information.
+I also discovered that Madrid's website was laid out a little differently in that it didn't really have a race description. I therefore had to write a condition in my code that would direct the user to click on Madrid's URL to get more information.
 
-Once I reformatted my code, my gem ran smoothly. No 42-second wait! Now it was scraping attributes only for a particular object (the one the user requests), instead of all 30 objects at once. 
+Once I had refactored all of my code, my gem ran smoothly. No 42-second wait! Now it was scraping attributes only for a particular object (the one the user requests), instead of all 30 objects at once. 
 
 Here's a look at my final code:
 
@@ -252,4 +251,5 @@ end
 
 ```
 
+I managed to publish my gem, but not without a few hiccups. I strongly suggest Googling how to do it if you've never done it before (this [post](http://dkphotoimaging.com/blog/bad-uriis-not-uri-todo-set-to-httpmygemserver-com/) was particularly helpful). I feel like I definitely learned a lot from building this gem and had a lot of fun (and frustration!) doing it. I still can't believe I put something like this together! 
 

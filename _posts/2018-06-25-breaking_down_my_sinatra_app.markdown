@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Breaking Down My Sinatra App"
-date:       2018-06-25 09:35:15 +0000
+date:       2018-06-25 05:35:15 -0400
 permalink:  breaking_down_my_sinatra_app
 ---
 
@@ -44,7 +44,7 @@ After Slacking with Cernan about my issue, he suggested creating a Comment contr
 
 As mentioned above, my Comment class is the one that belongs to both a chef and a restaurant, and it’s capable of being created, read, edited, and deleted. 
 
-The creation and read routes actually exist in the Restaurant controller because of the way I set up the “add restaurant” form. To me, it made sense that a comment for a restaurant could be added at the same time a restaurant is added. 
+The creation and read routes actually exist in the Restaurant controller because of the way I set up the “add restaurant” form. From a UX standpoint, it made sense to me that the "add restaurant" form would ask the user to both add a restaurant and a comment about it at the same time. 
 
 The editing and deleting routes are in the Comment controller. 
 

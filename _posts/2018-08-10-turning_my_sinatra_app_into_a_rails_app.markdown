@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Turning My Sinatra App Into a Rails App"
-date:       2018-08-10 08:43:52 +0000
+date:       2018-08-10 04:43:53 -0400
 permalink:  turning_my_sinatra_app_into_a_rails_app
 ---
 

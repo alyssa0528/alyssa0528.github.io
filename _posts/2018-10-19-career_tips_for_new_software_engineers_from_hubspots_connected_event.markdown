@@ -42,7 +42,7 @@ One of the major takeaways I got was that **projects are key** (so it's great we
 
 I was most looking forward to this session since simply hearing the words "technical interview" makes my stomach churn.
 
-Two tech leads led the discussion. They started off by saying that being good at coding does not equal being good at interviews. There's a sort of art to the technical interview that involves coding (obviously), as well as strong communication and comprehension.
+Two tech leads led this discussion. They started off by saying that being good at coding does not equal being good at interviews. There's a sort of art to the technical interview that involves coding (obviously), as well as strong communication and listening skills.
 
 Here were the six top tips they gave: 
 
@@ -50,7 +50,7 @@ Here were the six top tips they gave:
 * Sample code challenge questions on sites like [HackerRank](https://www.hackerrank.com/)
 * Listen carefully to the problem statements. Ask probing questions BEFORE writing any code.
 * Talk through your thought process. It shows how you take apart a problem, and in case you veer in the wrong direction, the interviewer can help you get back on track.
-* It's OK to not know something. Never pretend that you do because the interviewer will more than likely know you're BS'ing. Also, even if you aren't sure of the answer, take a stab at it because it will likely get you some credit. 
+* It's OK to not know something. Don't try to BS the interviewer because he/she will more than likely call you out on it. Also, even if you aren't sure of the answer, at least take a stab at how you might go about solving it because it will likely get you some credit. 
 
 The tech leads then did three mock interviews with each other on a virtual whiteboard. The first two attempts showed what not to do:
 * Don't immediately jump into writing code.
@@ -65,15 +65,17 @@ And some additional tips for a successful technical interview:
 Finally, don't see the interviewer as an enemy who is there to purposely trip you up. In most cases, they are there to help and guide you to the right solution. They also don't expect you to know everything (honestly, who does?). In HubSpot's case, they allow interviewees to look up stuff online, whereas some companies might not. Even if you don't know the exact syntax for a loop or function, talk it out and be honest with the interviewer. You're likely to at least get points for knowing how the problem should be approached.
 
 ## Why I Joined a Software Company
-The final session was led by Director of Engineering Barbara McCarthy and a panel of two software engineers, a designer, and a product manager. Here were my key takeaways:
+The final session was led by Director of Engineering Barbara McCarthy and a panel of two software engineers, a designer, and a product manager. They were asked about their backgrounds, how they ended up on HubSpot's Product team, and what they've learned through their work. Here were my key takeaways:
 
-* Having a side project (or five, when you're talking about Flatiron students!) and a website/blog help make you stand out in the interview process.
-* Once you start working, you're not coding 40 hours a week. Work on your soft skills. Learn how to communicate and deal with different types of people. It's easier to learn a new coding language than how to properly behave and collaborate. Even the DoE mentioned that this is one of the main reasons why a team can fail in the workplace.
-* Working for a software company means having a great impact on others through your work. You're working on software that is potentially helping hundreds, thousands, or millions of people be more productive. 
+* Having a side project and a website/blog help make you stand out in the interview process.
+* Once you start working, you're not coding 40 hours a week. Work on your soft skills. Learn how to communicate and deal with different types of people. It's easier to learn a new coding language than how to properly behave and collaborate with others. Even the DoE mentioned that this is one of the main reasons why a team can fail in the workplace.
+* Working for a software company means having a great impact on others through your work. You're working on software that is potentially helping hundreds, thousands, even millions of people be more productive on a regular basis. You're effectively changing lives, which is a truly amazing and 
 * Everyone experiences impostor syndrome. Don't allow it to sink in and consume you.
 * Focus on learning. Don't compare yourself to others.
 * Be honest during job interviews.
+* Get comfortable talking about code. Be able to explain what you wrote.
 
+The goal of ConnectED was to help demystify some of the tech job search process. In many ways, it did for me. It was great to see several live technical interview examples, especially as someone who has never had to do any sort of technical testing in an interview. Hopefully some of the above advice is helpful to you, too!
 
 
 

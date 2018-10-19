@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Career Tips for New Software Engineers from HubSpot's ConnectED Event"
-date:       2018-10-19 14:52:21 +0000
+date:       2018-10-19 10:52:22 -0400
 permalink:  career_tips_for_new_software_engineers_from_hubspots_connected_event
 ---
 
@@ -10,7 +10,7 @@ Earlier this week, I attended a career services event called ConnectED, hosted b
 ## Day in the Life of a Software Engineer
 Four engineers talked for about 15 minutes each about their daily work lives. If you thought software engineers sat at a desk purely coding for eight hours a day, you'd be sorely mistaken. For the engineers who talked to us, coding seemed to take up anywhere from 2–4 hours a day, depending on the person's role (tech leads seem to do slightly less hands-on coding than individual contributors). The rest of the day entails monitoring the performance of a newly deployed feature, attending meetings with product managers and designers, fixing bugs, and participating in code reviews.
 
-They reminded us that new software engineers aren't expected to know everything on their first day. No question is a stupid question, and as long as you are passionate about coding and learning, everything will be fine. 
+They reminded us that new software engineers aren't expected to know everything on their first day. No question is a stupid question, and you'll do well as long as you are passionate about coding and learning. 
 
 ## How to Find and Apply for a Software Engineering Role 
 A tech lead and two tech recruiters gave us useful tips on the job search. The first thing the tech lead brought up is the fact we CAN be picky about the jobs we apply to. The world is our oyster, and there are so many opportunities available out there for software engineering. (Just type in "software engineer" in Indeed and see how many available jobs appear.) Don't settle! 

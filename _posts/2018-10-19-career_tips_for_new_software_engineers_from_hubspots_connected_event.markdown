@@ -64,7 +64,7 @@ Finally, don't see the interviewer as an enemy who is there to purposely trip yo
 The final session was led by Director of Engineering Barbara McCarthy and a panel of two software engineers, a designer, and a product manager. Here were my key takeaways:
 
 * Having a side project (or five, when you're talking about Flatiron students!) and a website/blog help make you stand out in the interview process.
-* Once you start working, you're not coding 40 hours a week. Work on your soft skills. Learn how to communicate and deal with different types of people. It's easier to learn a new coding language than learning how to behave and collaborate. Even the DoE mentioned that this is one of the main reasons why a team can fail in the workplace.
+* Once you start working, you're not coding 40 hours a week. Work on your soft skills. Learn how to communicate and deal with different types of people. It's easier to learn a new coding language than how to properly behave and collaborate. Even the DoE mentioned that this is one of the main reasons why a team can fail in the workplace.
 * Working for a software company means having a great impact on others through your work. You're working on software that is potentially helping hundreds, thousands, or millions of people be more productive. 
 * Everyone experiences impostor syndrome. Don't allow it to sink in and consume you.
 * Focus on learning. Don't compare yourself to others.

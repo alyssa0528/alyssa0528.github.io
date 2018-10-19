@@ -25,7 +25,7 @@ One of the tech recruiters started off by suggesting we consider the role of rec
 
 That being said, your CV/resume needs to stand out. Your summary should clearly state what you're looking for. Be sure to add to your CV any side projects or coding competitions you've participated in. 
 
-When it comes to your Technical Skills section, be sure to only add skills that you're actually comfortable talking about or demonstrating. If it's on your resume, the interviewer has free rein to ask you about it—you don't want to stumble over it on an interview! Since recruiters spend so little time reviewing a CV, try to put your skills as close to the top as possible.
+When it comes to your Technical Skills section, only add skills that you're actually comfortable talking about or demonstrating. If it's on your resume, the interviewer has free rein to ask you about it—you don't want to stumble over it on an interview! Since recruiters spend so little time reviewing a CV, try to put your skills as close to the top as possible.
 
 Avoid listing duties and responsibilities—that's boring. Also, don't say you work well individually or on a team (everyone says that). Anything quantifiable is great. Each section should have 2–3 bullet points. 
 
@@ -36,7 +36,7 @@ She also mentioned that she often finds the Recommendations section on LinkedIn 
 One of the major takeaways I got was that **projects are key** (so it's great we create five projects through Flatiron!). They also encouraged listing half-complete projects on your resume—it's better than nothing and at least gives you a talking point during the interview. Also, showing enthusiasm, willingness to learn, and a tendency to get stuff done are key traits many tech companies will seek in a candidate. You don't have to be fluent in the exact language the company uses, but knowing a similar language or having the passion to learn it will help.
 
 ## Decoding the Technical Interview
-I was most looking forward to this session since simplying hearing the words "technical interview" makes my stomach churn.
+I was most looking forward to this session since simply hearing the words "technical interview" makes my stomach churn.
 
 Two tech leads led the discussion. They started off by saying that being good at coding does not equal being good at interviews. There's a sort of art to the technical interview that involves coding (obviously), as well as strong communication and comprehension.
 

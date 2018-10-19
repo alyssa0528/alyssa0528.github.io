@@ -5,6 +5,8 @@ date:       2018-10-19 10:52:22 -0400
 permalink:  career_tips_for_new_software_engineers_from_hubspots_connected_event
 ---
 
+![](https://i.imgur.com/oSDCdnL.jpg)
+
 Earlier this week, I attended a career services event called ConnectED, hosted by inbound marketing software company HubSpot. Over five hours, software engineers, tech leads, designers, product managers, and recruiters talked to us about everything from day-to-day tasks, how to apply for tech jobs, and how to tackle the dreaded technical interview. Here were my biggest takeaways from the event:
 
 ## Day in the Life of a Software Engineer
@@ -36,6 +38,8 @@ She also mentioned that she often finds the Recommendations section on LinkedIn 
 One of the major takeaways I got was that **projects are key** (so it's great we create five projects through Flatiron!). They also encouraged listing half-complete projects on your resume—it's better than nothing and at least gives you a talking point during the interview. Also, showing enthusiasm, willingness to learn, and a tendency to get stuff done are key traits many tech companies will seek in a candidate. You don't have to be fluent in the exact language the company uses, but knowing a similar language or having the passion to learn it will help.
 
 ## Decoding the Technical Interview
+![A mock technical interview on a virtual whiteboard](https://i.imgur.com/1I6MUKo.jpg)
+
 I was most looking forward to this session since simply hearing the words "technical interview" makes my stomach churn.
 
 Two tech leads led the discussion. They started off by saying that being good at coding does not equal being good at interviews. There's a sort of art to the technical interview that involves coding (obviously), as well as strong communication and comprehension.

@@ -69,7 +69,7 @@ The final session was led by Director of Engineering Barbara McCarthy and a pane
 
 * Having a side project and a website/blog help make you stand out in the interview process.
 * Once you start working, you're not coding 40 hours a week. Work on your soft skills. Learn how to communicate and deal with different types of people. It's easier to learn a new coding language than how to properly behave and collaborate with others. Even the DoE mentioned that this is one of the main reasons why a team can fail in the workplace.
-* Working for a software company means having a great impact on others through your work. You're working on software that is potentially helping hundreds, thousands, even millions of people be more productive on a regular basis. You're effectively changing lives, which is a truly amazing and 
+* Working for a software company means having a great impact on others through your work. You're working on software that is potentially helping hundreds, thousands, even millions of people be more productive on a regular basis. You're effectively changing lives, which is a truly amazing privilege and responsibility.
 * Everyone experiences impostor syndrome. Don't allow it to sink in and consume you.
 * Focus on learning. Don't compare yourself to others.
 * Be honest during job interviews.

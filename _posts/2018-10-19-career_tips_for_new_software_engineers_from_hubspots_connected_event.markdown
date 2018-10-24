@@ -52,12 +52,14 @@ Here were the six top tips they gave:
 * Talk through your thought process. It shows how you take apart a problem, and in case you veer in the wrong direction, the interviewer can help you get back on track.
 * It's OK to not know something. Don't try to BS the interviewer because he/she will more than likely call you out on it. Also, even if you aren't sure of the answer, at least take a stab at how you might go about solving it because it will likely get you some credit. 
 
-The tech leads then did three mock interviews with each other on a virtual whiteboard. The first two attempts showed what not to do:
+The tech leads then did mock interviews with each other on a virtual whiteboard. The interview question was: In any programming language, write code that will take the unique values of an array and return the sum of those values.
+
+They demonstrated three scenarios. The first two attempts showed what not to do:
 * Don't immediately jump into writing code.
 * Don't be silent. Ask questions to confirm what problem the interviewer is asking you to solve, and talk through your code while writing it.
 
 And some additional tips for a successful technical interview:
-* Use sample inputs for arguments and explain what the final solution should look like given that sample input.
+* Use sample inputs for arguments and explain what the final solution should look like given that sample input. 
 * Where possible, mention edge cases. You may not be expected to code for edge cases, but asking about them shows that you're thinking holistically.
 * Give variables good names so you don't trip yourself up. This is merely to make things easier for yourself!
 * Get a basic solution working quickly and worry about optimizing and refactoring later. You'll often have a time limit for these challenges, so you want to at least get the code to a working state before time runs out.
